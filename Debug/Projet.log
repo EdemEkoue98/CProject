@@ -1,0 +1,7 @@
+﻿  AsianOptions.cpp
+  main.cpp
+  MonteCarloMethod.cpp
+C:\Users\EDEM\Desktop\COURS A4\c++ for finance\Projet\MonteCarloMethod.cpp(24,6): warning C4101: 'i' : variable locale non référencée
+  Génération de code en cours...
+C:\Users\EDEM\Desktop\COURS A4\c++ for finance\Projet\AsianOptions.cpp(41): warning C4715: 'AsianOptions::verification' : les chemins de contrôle ne retournent pas tous une valeur
+  Projet.vcxproj -> C:\Users\EDEM\Desktop\COURS A4\c++ for finance\Projet\Debug\Projet.exe
